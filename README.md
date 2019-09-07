@@ -1,3 +1,3 @@
-**Comparación de precios e impacto de ofertas en tiendas gaming**
+**Comparación e impacto de precios y ofertas en tiendas gaming**
 
 
