@@ -1,6 +1,2 @@
-## franciscoyv
-proyecto *de* _big data **PSN** ajdgdgash prueba2
-
-
-hola
+"Comparación de precios e impacto de ofertas en tiendas gaming"
 
