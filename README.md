@@ -1,2 +1,3 @@
-"Comparación de precios e impacto de ofertas en tiendas gaming"
+**Comparación de precios e impacto de ofertas en tiendas gaming**
+
 
