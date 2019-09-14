@@ -2,6 +2,9 @@
 
 ## Obetivos:
 
+![microplay](https://www.microplay.cl/logo_fb.jpg)
+
+
 ![zmart](https://pbs.twimg.com/profile_images/414129205949919232/dJadlR1y.png)  
 
 
